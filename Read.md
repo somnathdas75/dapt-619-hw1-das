@@ -1,4 +1,7 @@
 # Stock Analysis & Prediction Dashboard by Somnath Das
+# You can download MacroTrends_Data_Download_AAPL.CSV from  MacroTrends and download and remove all initial statements and save the csv stock data like
+#date	open	high	low	close	volume
+#12/12/1980	0.0984	0.0989	0.0984	0.0984	1605922
 
 ## Overview
 A comprehensive Streamlit web application for stock market analysis and price prediction using machine learning models. The dashboard provides historical data analysis, technical indicators, and 12-month price predictions for stocks.
